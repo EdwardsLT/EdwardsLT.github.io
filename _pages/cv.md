@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. Physics, University of Bath, 2016
 * M.Sc. Physics, Cardiff University, 2017
-* Ph.D  Physics, Cardiff University, 2021 (expected)
+* Ph.D. Physics, Cardiff University, 2021 (expected)
 
 Work experience
 ======
