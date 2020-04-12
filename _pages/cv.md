@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Physics, University of Bath, 2016
-* M.Sc. in Physics, Cardiff University, 2017
-* Ph.D in Physics, Cardiff University, 2021 (expected)
+* B.Sc. Physics, University of Bath, 2016
+* M.Sc. Physics, Cardiff University, 2017
+* Ph.D  Physics, Cardiff University, 2021 (expected)
 
 Work experience
 ======
