@@ -13,7 +13,7 @@ name                     : &name "Lewis Edwards"
 description              : &description "PhD student at Cardiff University"
 url                      : https://edwardslt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "EdwardsLT/EdwardsLT.github.io.git"
+repository               : "edwardslt.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lewis Edwards"
   avatar           : "profile_picture2.jpg"
-  bio              : "My research interest is in the field of strongly correlated electron systems. I enjoy using neutrons, x-rays and bulk probes to understand the physical properties of these materials. My other interests include the development of in-situ instrumentation for beamline experiments and analysis tools for single crystal (diffuse) scattering, contributing to the Mantid project. My interests outside of science include climbing and piano. "
+  bio              : "My research interest is in the field of strongly correlated electron systems. I enjoy using neutrons, x-rays and bulk probes to understand the physical properties of these materials."
   location         : "Cardiff, UK"
   employer         :
   pubmed           : 
