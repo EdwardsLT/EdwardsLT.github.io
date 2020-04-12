@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Lewis Edwards"
-  avatar           : "profile_picture2.jpg"
-  bio              : "My research interest is in the field of strongly correlated electron systems. I enjoy using neutrons, x-rays and bulk probes to understand the physical properties of these materials."
+  avatar           : "profile_picture.jpg"
+  bio              : "PhD student at Cardiff University."
   location         : "Cardiff, UK"
   employer         :
   pubmed           : 
@@ -175,14 +175,11 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   software:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
@@ -209,15 +206,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: false
-      share: false
-      comments: false
   # _publications
   - scope:
       path: ""
@@ -233,9 +221,9 @@ defaults:
       type: software
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
-      comment: false
+      comment: true
   # _talks
   - scope:
       path: ""
